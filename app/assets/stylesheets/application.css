@@ -20,8 +20,29 @@
   box-sizing: border-box;
 }
 
+body {
+  margin: 33px;
+}
+
 p {
   font-family: Verdana, arial, helvetica, sans-serif;
   font-size: 13px;
   margin: 33px;
+}
+
+/* books_indexページ */
+label {
+  display: block;
+}
+
+.field {
+  margin-bottom: 10px;
+}
+
+table {
+  margin-bottom: 30px;
+}
+
+td {
+  padding: 0 10px 5px 5px;
 }
